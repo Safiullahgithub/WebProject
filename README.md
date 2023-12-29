@@ -13,7 +13,7 @@ Authentication: JSON Web Tokens (JWT)
 
 # Installation and Setup
 clone the repository
-git clone https://github.com/your-username/online-dental-clinic-appointment.git
+git clone https://github.com/Safiullahgithub/online-dental-clinic-appointment.git
 install xamp
 copy past in htdocs folder 
 
